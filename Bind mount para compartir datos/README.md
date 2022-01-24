@@ -1,3 +1,4 @@
+## Ejercicio Almacenamiento
 ### Bind mount para compartir datos
 
 1. Crea una carpeta llamada *saludo* y dentro de ella crea un fichero llamado *index.html* con el siguiente contenido (Deberás sustituir ese XXXXXx por tu
