@@ -6,22 +6,21 @@
 
 `$ docker ps -a`
 
+![](https://github.com/JenniferDiez/tareaDocker/blob/7ecc66e3ec2e8ea6bb71ee04bdd5b007be3ab6b4/imagen%20con%20Dockerfile/Capturas/ejem1.PNG)
+
+![](https://github.com/JenniferDiez/tareaDocker/blob/7ecc66e3ec2e8ea6bb71ee04bdd5b007be3ab6b4/imagen%20con%20Dockerfile/Capturas/ejem1.1.PNG)
+
+2. Pantallazo donde se vea el comando que crea la nueva imagen.
+
+![](https://github.com/JenniferDiez/tareaDocker/blob/7ecc66e3ec2e8ea6bb71ee04bdd5b007be3ab6b4/imagen%20con%20Dockerfile/Capturas/Captura2%20final.PNG)
+
+3. Pantallazo donde se vea la imagen subida a tu cuenta de Docker Hub.
+
+![](https://github.com/JenniferDiez/tareaDocker/blob/7ecc66e3ec2e8ea6bb71ee04bdd5b007be3ab6b4/imagen%20con%20Dockerfile/Capturas/dockerhub.PNG)
+
+4. Pantallazo donde se vea la bajada de la imagen - por parte de otra persona del grupo
+- y la creación de un contenedor.
 
 
-![](https://github.com/Dawclas/Proyecto/blob/39abd8b102a4be6163a0c7411df5530d04b0ff38/Capturas/Captura1.PNG)
 
-2. Pantallazo donde se vea el acceso al servidor web utilizando un navegador web (recuerda que tienes que acceder a la ip del ordenador donde tengas instalado
-docker)
-
-![](https://github.com/Dawclas/Proyecto/blob/39abd8b102a4be6163a0c7411df5530d04b0ff38/Capturas/Captura2.PNG)
-
-3. Pantallazo donde se vean las imágenes que tienes en tu registro local.
-
-![](https://github.com/Dawclas/Proyecto/blob/39abd8b102a4be6163a0c7411df5530d04b0ff38/Capturas/Captura3.PNG)
-
-4. Pantallazo donde se vea cómo se elimina el contenedor (recuerda que antes debe
-estar parado el contenedor).
-
-![](https://github.com/Dawclas/Proyecto/blob/39abd8b102a4be6163a0c7411df5530d04b0ff38/Capturas/Captura5.1.PNG)
-
-
+5. Pantallazo donde se ve el acceso al navegador con el sitio servido
