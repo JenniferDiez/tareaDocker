@@ -14,6 +14,10 @@
 
 ![](https://github.com/JenniferDiez/tareaDocker/blob/7ecc66e3ec2e8ea6bb71ee04bdd5b007be3ab6b4/imagen%20con%20Dockerfile/Capturas/Captura2%20final.PNG)
 
+![](https://github.com/JenniferDiez/tareaDocker/blob/95ad31ed6b0f9293c90c7b024214745a1a087821/imagen%20con%20Dockerfile/Capturas/captura%203.PNG)
+
+![](https://github.com/JenniferDiez/tareaDocker/blob/95ad31ed6b0f9293c90c7b024214745a1a087821/imagen%20con%20Dockerfile/Capturas/docker%203.1.PNG)
+
 3. Pantallazo donde se vea la imagen subida a tu cuenta de Docker Hub.
 
 ![](https://github.com/JenniferDiez/tareaDocker/blob/7ecc66e3ec2e8ea6bb71ee04bdd5b007be3ab6b4/imagen%20con%20Dockerfile/Capturas/dockerhub.PNG)
