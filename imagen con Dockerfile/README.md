@@ -6,7 +6,7 @@
 
 `$ nano dockerfile`
 
-    | FROM httpd:2.4
+    | FROM httpd:2.4 |
     | ADD public_html /usr/local/apache2/htdocs/ |
     | Expose 80 |
 
