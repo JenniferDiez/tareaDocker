@@ -14,9 +14,9 @@
 
 2. Pantallazo donde se vea el comando que crea la nueva imagen.
 
-`$ docker build -t dockerr007/apacheimagen:latest .`
+`$ docker build -t dockerr007/paginaapache:latest .`
 
-`$ docker run --name ejemplo -d -p 80:80 dockerr007/apacheimagen:latest`
+`$ docker run --name ejemplo -d -p 80:80 dockerr007/paginaapache:latest`
 
 `$ docker ps`
 
@@ -28,7 +28,7 @@
 
 `$ docker login`
 
-`$ docker push dockerr007/apacheimagen:latest`
+`$ docker push dockerr007/paginaapache:latest`
 
 ![](https://github.com/JenniferDiez/tareaDocker/blob/71e623c28a8915e848ffd41fd10271483f898653/imagen%20con%20Dockerfile/capturas/captura%203.png)
 
@@ -42,3 +42,6 @@
 
 
 5. Pantallazo donde se ve el acceso al navegador con el sitio servido
+
+![](https://github.com/JenniferDiez/tareaDocker/blob/23cf38d3ebfad88c419d007cd8719fb16690b1e1/imagen%20con%20Dockerfile/capturas/captura%205%20pagina.png)
+
