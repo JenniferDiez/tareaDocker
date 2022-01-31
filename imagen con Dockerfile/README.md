@@ -36,12 +36,24 @@
 
 ![](https://github.com/JenniferDiez/tareaDocker/blob/71e623c28a8915e848ffd41fd10271483f898653/imagen%20con%20Dockerfile/capturas/captura%204.1.png)
 
-4. Pantallazo donde se vea la bajada de la imagen - por parte de otra persona del grupo
-- y la creación de un contenedor.
+4. Pantallazo donde se vea la bajada de la imagen - por parte de otra persona del grupo y la creación de un contenedor.
 
+   ```bash
+   docker login
+   docker pull dockerr007/apacheimagen2:latest
+   docker run -d --name contenedorDockerHub -p 80:80 dockerr007/apacheimagen2:latest
+   ```
 
+   ![image-20220128102523618](Ejercicio%20-%20Crear%20una%20imagen%20con%20Dockerfile.assets/image-20220128102523618.png)
 
 5. Pantallazo donde se ve el acceso al navegador con el sitio servido
+
+   ```bash
+   docker start -i contenedorDockerHub
+   docker ps
+   ```
+
+   ![image-20220128102800267](Ejercicio%20-%20Crear%20una%20imagen%20con%20Dockerfile.assets/image-20220128102800267.png)
 
 ![](https://github.com/JenniferDiez/tareaDocker/blob/23cf38d3ebfad88c419d007cd8719fb16690b1e1/imagen%20con%20Dockerfile/capturas/captura%205%20pagina.png)
 
