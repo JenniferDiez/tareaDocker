@@ -55,5 +55,5 @@
 
    ![image-20220128102800267](Ejercicio%20-%20Crear%20una%20imagen%20con%20Dockerfile.assets/image-20220128102800267.png)
 
-![](https://github.com/JenniferDiez/tareaDocker/blob/23cf38d3ebfad88c419d007cd8719fb16690b1e1/imagen%20con%20Dockerfile/capturas/captura%205%20pagina.png)
+![](https://github.com/JenniferDiez/tareaDocker/blob/7053e84e1ac187f79dd351db1d0059bd85347950/imagen%20con%20Dockerfile/capturas/Captura%20pagina.PNG)
 
