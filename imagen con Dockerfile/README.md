@@ -44,7 +44,10 @@
    docker run -d --name contenedorDockerHub -p 80:80 dockerr007/apacheimagen2:latest
    ```
 
-   ![image-20220128102523618](Ejercicio%20-%20Crear%20una%20imagen%20con%20Dockerfile.assets/image-20220128102523618.png)
+![](https://github.com/JenniferDiez/tareaDocker/blob/73c2c5ae90f7e79ed8479a8bbd7287e4dd30858d/imagen%20con%20Dockerfile/capturas/image-20220128092805456.png)
+
+![](https://github.com/JenniferDiez/tareaDocker/blob/73c2c5ae90f7e79ed8479a8bbd7287e4dd30858d/imagen%20con%20Dockerfile/capturas/image-20220128092904328.png)
+
 
 5. Pantallazo donde se ve el acceso al navegador con el sitio servido
 
@@ -53,7 +56,7 @@
    docker ps
    ```
 
-   ![image-20220128102800267](Ejercicio%20-%20Crear%20una%20imagen%20con%20Dockerfile.assets/image-20220128102800267.png)
+![](https://github.com/JenniferDiez/tareaDocker/blob/73c2c5ae90f7e79ed8479a8bbd7287e4dd30858d/imagen%20con%20Dockerfile/capturas/image-20220128102800267.png)
 
 ![](https://github.com/JenniferDiez/tareaDocker/blob/7053e84e1ac187f79dd351db1d0059bd85347950/imagen%20con%20Dockerfile/capturas/Captura%20pagina.PNG)
 
