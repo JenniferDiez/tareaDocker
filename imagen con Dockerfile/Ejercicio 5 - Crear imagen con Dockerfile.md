@@ -1,4 +1,4 @@
-## Ejercicio - crea una imagen con Dockerfile
+## Ejercicio - Crea una imagen con Dockerfile
 
 ### Crear una imagen con un servidor web que sirva un sitio web
 
