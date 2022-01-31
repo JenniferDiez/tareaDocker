@@ -32,7 +32,7 @@ title: Ejercicios Docker - entregables
    
    
    
-   ![image-20220114092417174](Ejercicios-Docker--ServidorWeb.assets/image-20220114092417174.png)
+   ![image-20220114092417174](image-20220114092417174.png)
    
    
 
@@ -43,13 +43,13 @@ nano index.html
 tail index.html
 ````
 
-![image-20220114092448845](Ejercicios-Docker--ServidorWeb.assets/image-20220114092448845.png)
+![image-20220114092448845](/image-20220114092448845.png)
 
-![image-20220114092516408](Ejercicios-Docker--ServidorWeb.assets/image-20220114092516408.png)
+![image-20220114092516408](image-20220114092516408.png)
 
-![image-20220114092533153](Ejercicios-Docker--ServidorWeb.assets/image-20220114092533153.png)
+![image-20220114092533153](image-20220114092533153.png)
 
-![image-20220114092559831](Ejercicios-Docker--ServidorWeb.assets/image-20220114092559831.png)
+![image-20220114092559831](image-20220114092559831.png)
 
 
 
@@ -61,7 +61,7 @@ tail index.html
 
    
 
-   ![image-20220114094026052](capturasServidorWeb/image-20220114094026052.png)
+   ![image-20220114094026052](image-20220114094026052.png)
 
    
    
@@ -72,5 +72,5 @@ tail index.html
       docker rm web
       ````
 
-![image-20220128095531600](Ejercicios-Docker--ServidorWeb.assets/image-20220128095531600.png)
+![image-20220128095531600](image-20220128095531600.png)
 
