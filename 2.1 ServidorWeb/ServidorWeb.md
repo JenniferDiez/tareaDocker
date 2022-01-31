@@ -19,7 +19,7 @@ title: Ejercicios Docker - entregables
    docker run -d --name web -p 8000 php:7.4-apache
    ````
    
-   ![image-20220114091054798](Ejercicios-Docker--ServidorWeb.assets/image-20220114091054798.png)
+   ![image-20220114091054798](image-20220114091054798.png)
 
 
 
