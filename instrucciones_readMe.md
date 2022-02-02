@@ -39,6 +39,8 @@ Ejercicios entregables de Docker - Despliegue de Aplicaciones Web
 
 2. Aspecto más positivo:
   - Trabajo en equipo con las compañeras. Buena comunicación entre todas, perfecto reparto y coordinación de tareas, trabajo en equipo.
+  - Contar con compañeras dispuestas a ayudarte si lo necesitas.
   
 3. Aspecto más negativo:
   - Ninguno <3
+  - No se me ocurre ninguno
