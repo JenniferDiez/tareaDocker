@@ -36,11 +36,13 @@ Ejercicios entregables de Docker - Despliegue de Aplicaciones Web
 
 1. Dificultades encontradas:
   - Trabajo con GitHub debido a falta de experiencia y mala organización. Ej: no poder renombrar las carpetas una vez creadas.
+  - Algunos comandos de docker estaban obsoletos para la versión que estamos utilizando, por lo que hubo que consultar diferentes fuentes para encontrar soluciones alternativas.
 
 2. Aspecto más positivo:
   - Trabajo en equipo con las compañeras. Buena comunicación entre todas, perfecto reparto y coordinación de tareas, trabajo en equipo.
   - Contar con compañeras dispuestas a ayudarte si lo necesitas.
-  
+  - Familiarización y uso de herramientas útiles y habituales en el mundo laboral.
+  - Fomento del compromiso y la responsabilidad respecto a la entrega de tareas en tiempo y forma.
 3. Aspecto más negativo:
-  - Ninguno <3
+  - Ninguno
   - No se me ocurre ninguno
